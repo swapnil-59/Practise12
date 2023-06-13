@@ -1,0 +1,7 @@
+th,td,table{
+    border: 2px solid black;
+    text-align: center;
+}
+.active{
+    background-color: red;
+}
